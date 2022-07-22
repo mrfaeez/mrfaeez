@@ -2,6 +2,7 @@
 
 
 - 🔭 I’m a full stack web developer
+- 📔 Interested in cybersecurity, pentesting, automation stuff
 - 🌱 I code in one language only (hint: english) 
 - ⚡ Fun fact: I'm a human
 
